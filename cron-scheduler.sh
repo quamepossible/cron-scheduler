@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Name: Kwame Opoku - Appiah
+# By: quamepossible
 # Program: Custom cronjob scheduler application 
 # Description: This is a simple script to allow the creation of a cronjob interactively from the command line
               # This program also allows the modification and deletion of existing cronjobs, all from the command line
